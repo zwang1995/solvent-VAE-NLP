@@ -2,7 +2,7 @@
 
 ### Description
 
-![SolventVAE](https://github.com/zwang1995/SolventVAE/blob/main/SolventVAE.png width="700")
+![SolventVAE](https://github.com/zwang1995/solvent-VAE-NLP/blob/main/SolventVAE.png width="700")
 
 This repository contains the data and scripts involved in the publication:
 
@@ -10,12 +10,12 @@ This repository contains the data and scripts involved in the publication:
 
 to be published in *32nd European Symposium on Computer Aided Process Engineering: Computer Aided Chemical Engineering*.
 
-<img src="https://github.com/zwang1995/SolventVAE/blob/main/SolventVAE.png" width="700">
+<img src="https://github.com/zwang1995/SolventVAE/blob/main/SolventVAE.png" width="600">
 
 > ***NOTE: Part of the scripts for VAE model development was adapted from [Chemical VAE](https://github.com/aspuru-guzik-group/chemical_vae) GitHub repository.***
 
 ### Required packages (Python 3.5)
-In addition to the packages used in [Chemical VAE](https://github.com/aspuru-guzik-group/chemical_vae), other packages were used:
+In addition to the packages necessary for [Chemical VAE](https://github.com/aspuru-guzik-group/chemical_vae), other packages were used:
 * [Pyomo](http://www.pyomo.org/): optimization modeling
 * [scikit-learn](https://scikit-learn.org/stable/): data processing
 * [matplotlib](https://matplotlib.org/) & [seaborn](https://seaborn.pydata.org/): visualization
