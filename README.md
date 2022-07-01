@@ -8,7 +8,7 @@ This repository contains the data and scripts involved in the publication:
 
 published in *Computer Aided Chemical Engineering* (Volume 51).
 
-<img src="https://github.com/zwang1995/SolventVAE/blob/main/SolventVAE.png" width="600">
+<img src="https://github.com/zwang1995/solvent-VAE-NLP/blob/main/solvent-VAE-NLP.png" width="600">
 
 > ***NOTE: Part of the scripts for VAE model development was adapted from [Chemical VAE](https://github.com/aspuru-guzik-group/chemical_vae) GitHub repository.***
 
