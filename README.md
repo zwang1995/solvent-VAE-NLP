@@ -6,7 +6,7 @@ This repository contains the data and scripts involved in the publication:
 
 ***A novel machine learning-based optimization approach for the molecular design of solvents***
 
-to be published in *32nd European Symposium on Computer Aided Process Engineering: Computer Aided Chemical Engineering*.
+published in *Computer Aided Chemical Engineering* (Volume 51).
 
 <img src="https://github.com/zwang1995/SolventVAE/blob/main/SolventVAE.png" width="600">
 
