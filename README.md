@@ -1,4 +1,4 @@
-## Molecular Design of Solvents based on Variational Autoencoder (VAE) and Nonlinear Programming (NLP) Optimization
+## Molecular Design of Solvents Coupling Variational Autoencoder (VAE) and Nonlinear Programming (NLP) Optimization
 
 ### Description
 
