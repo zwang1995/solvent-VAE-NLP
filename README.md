@@ -2,15 +2,17 @@
 
 ### Description
 
+![SolventVAE](https://github.com/zwang1995/SolventVAE/blob/main/SolventVAE.png width="700")
+
 This repository contains the data and scripts involved in the publication:
 
 ***A novel machine learning-based optimization approach for the molecular design of solvents***
 
 to be published in *32nd European Symposium on Computer Aided Process Engineering: Computer Aided Chemical Engineering*.
 
+<img src="https://github.com/zwang1995/SolventVAE/blob/main/SolventVAE.png" width="700">
 
-
-> ***NOTE: Part of scripts for the VAE model was adapted from [Chemical VAE](https://github.com/aspuru-guzik-group/chemical_vae) GitHub repository.***
+> ***NOTE: Part of the scripts for VAE model development was adapted from [Chemical VAE](https://github.com/aspuru-guzik-group/chemical_vae) GitHub repository.***
 
 ### Required packages (Python 3.5)
 In addition to the packages used in [Chemical VAE](https://github.com/aspuru-guzik-group/chemical_vae), other packages were used:
