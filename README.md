@@ -2,8 +2,6 @@
 
 ### Description
 
-![SolventVAE](https://github.com/zwang1995/solvent-VAE-NLP/blob/main/SolventVAE.png width="700")
-
 This repository contains the data and scripts involved in the publication:
 
 ***A novel machine learning-based optimization approach for the molecular design of solvents***
