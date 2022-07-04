@@ -6,7 +6,9 @@ This repository contains the data and scripts involved in the publication:
 
 ***A novel machine learning-based optimization approach for the molecular design of solvents***
 
-published in *Computer Aided Chemical Engineering* (Volume 51).
+by Zihao Wang, Teng Zhou, and Kai Sundmacher
+
+published in *Computer Aided Chemical Engineering*, 2022, 51, 1477-1482.
 
 <img src="https://github.com/zwang1995/solvent-VAE-NLP/blob/main/solvent-VAE-NLP.png" width="600">
 
