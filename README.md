@@ -1,6 +1,5 @@
 # Molecular Design of Solvents Coupling Variational Autoencoder (VAE) and Nonlinear Programming (NLP) Optimization
 
-## Description
 
 This repository contains the data and scripts involved in the publication:
 
