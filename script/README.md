@@ -9,6 +9,6 @@ For other python files:
 
 * `zw_sampling_between.py`: interpolation between the optimally designed point and the optimal one in the dataset
 
-* `zw_smiles_split.py`: tokenization of SMILES strings considering new tokens
+* `zw_smiles_split.py`: tokenization of SMILES strings considering newly introduced tokens
 
 * `zw_viz.py`: visualization
