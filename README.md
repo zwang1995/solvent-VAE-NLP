@@ -13,7 +13,7 @@ published in *Computer Aided Chemical Engineering*, 2022, 51, 1477-1482.
 
 > ***NOTE: Part of the scripts for VAE model development was adapted from [Chemical VAE](https://github.com/aspuru-guzik-group/chemical_vae) GitHub repository.***
 
-## Required packages (Python 3.5)
+## Key packages (Python 3.5)
 In addition to the packages necessary for [Chemical VAE](https://github.com/aspuru-guzik-group/chemical_vae), other packages were used:
 * [Pyomo](http://www.pyomo.org/): optimization modeling
 * [scikit-learn](https://scikit-learn.org/stable/): data processing
