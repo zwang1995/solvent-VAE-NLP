@@ -7,16 +7,16 @@ This repository contains the data and scripts involved in the publication:
 
 <img src="https://github.com/zwang1995/solvent-VAE-NLP/blob/main/solvent-VAE-NLP.png" width="600">
 
-> ***NOTE: Part of the scripts for VAE model development was adapted from [Chemical VAE](https://github.com/aspuru-guzik-group/chemical_vae) GitHub repository.***
+> ***NOTE: Part of the scripts for the development of VAE model was adapted from [Chemical VAE](https://github.com/aspuru-guzik-group/chemical_vae) GitHub repository.***
 
 ## Key packages (Python 3.5)
-In addition to the packages used in [Chemical VAE](https://github.com/aspuru-guzik-group/chemical_vae), other packages are required:
+In addition to the packages used in [Chemical VAE](https://github.com/aspuru-guzik-group/chemical_vae), other required packages includes:
 * [Pyomo](http://www.pyomo.org/): optimization modeling
 * [scikit-learn](https://scikit-learn.org/stable/): data processing
 * [matplotlib](https://matplotlib.org/) & [seaborn](https://seaborn.pydata.org/): visualization
 
 ## Commercial software
-* COSMOtherm: molecular property calculation
+* COSMOtherm: thermodynamic prediction
 
 ## Maintainer
 Mr. Zihao Wang: zwang@mpi-magdeburg.mpg.de
