@@ -10,7 +10,7 @@ This repository contains the data and scripts involved in the publication:
 > ***NOTE: Part of the scripts for VAE model development was adapted from [Chemical VAE](https://github.com/aspuru-guzik-group/chemical_vae) GitHub repository.***
 
 ## Key packages (Python 3.5)
-In addition to the packages necessary for [Chemical VAE](https://github.com/aspuru-guzik-group/chemical_vae), other packages were used:
+In addition to the packages used in [Chemical VAE](https://github.com/aspuru-guzik-group/chemical_vae), other packages are required:
 * [Pyomo](http://www.pyomo.org/): optimization modeling
 * [scikit-learn](https://scikit-learn.org/stable/): data processing
 * [matplotlib](https://matplotlib.org/) & [seaborn](https://seaborn.pydata.org/): visualization
