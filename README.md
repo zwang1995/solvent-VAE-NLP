@@ -9,14 +9,16 @@ This repository contains the data and scripts involved in the publication:
 
 > ***NOTE: Part of the scripts for the development of VAE model was adapted from [Chemical VAE](https://github.com/aspuru-guzik-group/chemical_vae) GitHub repository.***
 
-## Key packages (Python 3.5)
+## Requirements 
+### Library (Python 3.5)
 In addition to the packages used in [Chemical VAE](https://github.com/aspuru-guzik-group/chemical_vae), other required packages include:
 * [Pyomo](http://www.pyomo.org/): nonlinear programming
 * [scikit-learn](https://scikit-learn.org/stable/): data processing
 * [matplotlib](https://matplotlib.org/) & [seaborn](https://seaborn.pydata.org/): visualization
-
-## Commercial software
+### Software
 * COSMOtherm: thermodynamic prediction
 
-## Maintainer
-Zihao Wang: zwang@mpi-magdeburg.mpg.de
+## Authors
+* Zihao Wang (zwang@mpi-magdeburg.mpg.de)
+* [Prof. Dr.-Ing. Teng Zhou](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/ZHOU-Teng/tengzhou)
+* [Prof. Dr.-Ing. Kai Sundmacher](https://www.mpi-magdeburg.mpg.de/person/24754/16345)
