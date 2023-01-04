@@ -3,7 +3,7 @@
 
 This repository contains the data and scripts involved in the publication:
 
-***[A novel machine learning-based optimization approach for the molecular design of solvents](https://doi.org/10.1016/B978-0-323-95879-0.50247-2)***
+***[A Novel Machine Learning-Based Optimization Approach for the Molecular Design of Solvents](https://doi.org/10.1016/B978-0-323-95879-0.50247-2)***
 
 <img src="https://github.com/zwang1995/solvent-VAE-NLP/blob/main/solvent-VAE-NLP.png" width="600">
 
