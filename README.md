@@ -19,4 +19,4 @@ In addition to the packages used in [Chemical VAE](https://github.com/aspuru-guz
 * COSMOtherm: thermodynamic prediction
 
 ## Maintainer
-Mr. Zihao Wang: zwang@mpi-magdeburg.mpg.de
+Zihao Wang: zwang@mpi-magdeburg.mpg.de
