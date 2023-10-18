@@ -7,7 +7,7 @@ This repository contains the data and scripts involved in the publication:
 
 <img src="https://github.com/zwang1995/solvent-VAE-NLP/blob/main/solvent-VAE-NLP.png" width="600">
 
-> ***NOTE: Part of the scripts for the development of VAE model was adapted from [Chemical VAE](https://github.com/aspuru-guzik-group/chemical_vae) GitHub repository.***
+> ***NOTE: Part of the scripts used for VAE model development was adapted from the [Chemical VAE](https://github.com/aspuru-guzik-group/chemical_vae) GitHub repository.***
 
 ## Requirements 
 ### Library (Python 3.5)
@@ -19,6 +19,6 @@ In addition to the libraries used in [Chemical VAE](https://github.com/aspuru-gu
 * COSMOtherm: thermodynamic prediction
 
 ## Authors
-* Zihao Wang (zwang@mpi-magdeburg.mpg.de)
+* [Zihao Wang](https://www.mpi-magdeburg.mpg.de/person/109361/842836)
 * [Prof. Dr.-Ing. Teng Zhou](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/ZHOU-Teng/tengzhou)
 * [Prof. Dr.-Ing. Kai Sundmacher](https://www.mpi-magdeburg.mpg.de/person/24754/16345)
