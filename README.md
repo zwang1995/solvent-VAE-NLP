@@ -19,6 +19,6 @@ In addition to the libraries used in [Chemical VAE](https://github.com/aspuru-gu
 * COSMOtherm: thermodynamic prediction
 
 ## Authors
-* [Zihao Wang](https://www.mpi-magdeburg.mpg.de/person/109361/842836)
+* [Zihao Wang](https://zwang1995.github.io)
 * [Prof. Dr.-Ing. Teng Zhou](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/ZHOU-Teng/tengzhou)
 * [Prof. Dr.-Ing. Kai Sundmacher](https://www.mpi-magdeburg.mpg.de/person/24754/16345)
